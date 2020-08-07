@@ -1,4 +1,4 @@
-# Desafios propostos pelo Prof. Gustavo Guanabara
+# Desafios propostos pelo Prof. Gustavo Guanabara :computer:
 
 HTML5 + CCS: https://github.com/gustavoguanabara/html-css/tree/master/desafios
 
